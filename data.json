@@ -1,0 +1,458 @@
+[
+  {
+  "nama": "al-fatihah",
+  "ayat": 7
+  },
+  {
+    "nama": "al-baqarah",
+    "ayat": "286"
+  },
+  {
+    "nama": "ali-imran",
+    "ayat": 200
+  },
+  {
+    "nama": "an-nisa",
+    "ayat": 176
+  },
+  {
+    "nama": "al-maidah",
+    "ayat": 120
+  },
+  {
+    "nama": "al-anam",
+    "ayat": 165
+  },
+  {
+    "nama": "al-araf",
+    "ayat": 206
+  },
+  {
+    "nama": "al-anfal",
+    "ayat": 75
+  },
+  {
+    "nama": "at-taubah",
+    "ayat": 129
+  },
+  {
+    "nama": "yunus",
+    "ayat": 109
+  },
+  {
+    "nama": "hud",
+    "ayat": 123
+  },
+  {
+    "nama": "yusuf",
+    "ayat": 111
+  },
+  {
+    "nama": "ar-rad",
+    "ayat": 43
+  },
+  {
+    "nama": "ibrahim",
+    "ayat": 52
+  },
+  {
+    "nama": "al-hijr",
+    "ayat": 99
+  },
+  {
+    "nama": "an-nahl",
+    "ayat": 128
+  },
+  {
+    "nama": "al-isra",
+    "ayat": 111
+  },
+  {
+    "nama": "al-kahf",
+    "ayat": 110
+  },
+  {
+    "nama": "maryam",
+    "ayat": 98
+  },
+  {
+    "nama": "taha",
+    "ayat": 135
+  },
+  {
+    "nama": "al-anbiya",
+    "ayat": 112
+  },
+  {
+    "nama": "al-hajj",
+    "ayat": 78
+  },
+  {
+    "nama": "al-muminun",
+    "ayat": 118
+  },
+  {
+    "nama": "an-nur",
+    "ayat": 64
+  },
+  {
+    "nama": "al-furqan",
+    "ayat": 77
+  },
+  {
+    "nama": "asy-syuara",
+    "ayat": 227
+  },
+  {
+    "nama": "an-naml",
+    "ayat": 93
+  },
+  {
+    "nama": "al-qasas",
+    "ayat": 88
+  },
+  {
+    "nama": "al-ankabut",
+    "ayat": 69
+  },
+  {
+    "nama": "ar-rum",
+    "ayat": 60
+  },
+  {
+    "nama": "luqman",
+    "ayat": 34
+  },
+  {
+    "nama": "as-sajdah",
+    "ayat": 30
+  },
+  {
+    "nama": "al-ahzab",
+    "ayat": 73
+  },
+  {
+    "nama": "saba",
+    "ayat": 54
+  },
+  {
+    "nama": "fatir",
+    "ayat": 45
+  },
+  {
+    "nama": "yasin",
+    "ayat": 83
+  },
+  {
+    "nama": "as-saffat",
+    "ayat": 182
+  },
+  {
+    "nama": "sad",
+    "ayat": 88
+  },
+  {
+    "nama": "az-zumar",
+    "ayat": 75
+  },
+  {
+    "nama": "ghafir",
+    "ayat": 85
+  },
+  {
+    "nama": "fussilat",
+    "ayat": 54
+  },
+  {
+    "nama": "asy-syura",
+    "ayat": 53
+  },
+  {
+    "nama": "az-zukhruf",
+    "ayat": 89
+  },
+  {
+    "nama": "ad-dukhan",
+    "ayat": 59
+  },
+  {
+    "nama": "al-jasiyah",
+    "ayat": 37
+  },
+  {
+    "nama": "al-ahqaf",
+    "ayat": 35
+  },
+  {
+    "nama": "muhammad",
+    "ayat": 38
+  },
+  {
+    "nama": "al-fath",
+    "ayat": 29
+  },
+  {
+    "nama": "al-hujurat",
+    "ayat": 18
+  },
+  {
+    "nama": "qaf",
+    "ayat": 45
+  },
+  {
+    "nama": "az-zariyat",
+    "ayat": 60
+  },
+  {
+    "nama": "at-tur",
+    "ayat": 49
+  },
+  {
+    "nama": "an-najm",
+    "ayat": 62
+  },
+  {
+    "nama": "al-qamar",
+    "ayat": 55
+  },
+  {
+    "nama": "ar-rahman",
+    "ayat": 78
+  },
+  {
+    "nama": "al-waqiah",
+    "ayat": 96
+  },
+  {
+    "nama": "al-hadid",
+    "ayat": 29
+  },
+  {
+    "nama": "al-mujadilah",
+    "ayat": 22
+  },
+  {
+    "nama": "al-hasyr",
+    "ayat": 24
+  },
+  {
+    "nama": "al-mumtahanah",
+    "ayat": 13
+  },
+  {
+    "nama": "as-saff",
+    "ayat": 14
+  },
+  {
+    "nama": "al-jumuah",
+    "ayat": 11
+  },
+  {
+    "nama": "al-munafiqun",
+    "ayat": 11
+  },
+  {
+    "nama": "at-tagabun",
+    "ayat": 18
+  },
+  {
+    "nama": "at-talaq",
+    "ayat": 12
+  },
+  {
+    "nama": "at-tahrim",
+    "ayat": 12
+  },
+  {
+    "nama": "al-mulk",
+    "ayat": 30
+  },
+  {
+    "nama": "al-qalam",
+    "ayat": 52
+  },
+  {
+    "nama": "al-haqqah",
+    "ayat": 52
+  },
+  {
+    "nama": "al-maarij",
+    "ayat": 44
+  },
+  {
+    "nama": "nuh",
+    "ayat": 28
+  },
+  {
+    "nama": "al-jinn",
+    "ayat": 28
+  },
+  {
+    "nama": "al-muzzammil",
+    "ayat": 20
+  },
+  {
+    "nama": "al-muddassir",
+    "ayat": 56
+  },
+  {
+    "nama": "al-qiyamah",
+    "ayat": 40
+  },
+  {
+    "nama": "al-insan",
+    "ayat": 31
+  },
+  {
+    "nama": "al-mursalat",
+    "ayat": 50
+  },
+  {
+    "nama": "an-naba",
+    "ayat": 40
+  },
+  {
+    "nama": "an-naziat",
+    "ayat": 46
+  },
+  {
+    "nama": "abasa",
+    "ayat": 42
+  },
+  {
+    "nama": "at-takwir",
+    "ayat": 29
+  },
+  {
+    "nama": "al-infitar",
+    "ayat": 19
+  },
+  {
+    "nama": "al-mutaffiffin",
+    "ayat": 36
+  },
+  {
+    "nama": "al-insyiqaq",
+    "ayat": 25
+  },
+  {
+    "nama": "al-buruj",
+    "ayat": 22
+  },
+  {
+    "nama": "at-tariq",
+    "ayat": 17
+  },
+  {
+    "nama": "al-ala",
+    "ayat": 19
+  },
+  {
+    "nama": "al-gasyiyah",
+    "ayat": 26
+  },
+  {
+    "nama": "al-fajr",
+    "ayat": 30
+  },
+  {
+    "nama": "al-balad",
+    "ayat": 20
+  },
+  {
+    "nama": "asy-syams",
+    "ayat": 15
+  },
+  {
+    "nama": "al-lail",
+    "ayat": 21
+  },
+  {
+    "nama": "ad-duha",
+    "ayat": 11
+  },
+  {
+    "nama": "al-insyirah",
+    "ayat": 8
+  },
+  {
+    "nama": "at-tin",
+    "ayat": 8
+  },
+  {
+    "nama": "al-alaq",
+    "ayat": 19
+  },
+  {
+    "nama": "al-qadr",
+    "ayat": 5
+  },
+  {
+    "nama": "al-bayyinah",
+    "ayat": 8
+  },
+  {
+    "nama": "az-zalzalah",
+    "ayat": 8
+  },
+  {
+    "nama": "al-adiyat",
+    "ayat": 11
+  },
+  {
+    "nama": "al-qariah",
+    "ayat": 11
+  },
+  {
+    "nama": "at-takasur",
+    "ayat": 8
+  },
+  {
+    "nama": "al-asr",
+    "ayat": 3
+  },
+  {
+    "nama": "al-humazah",
+    "ayat": 9
+  },
+  {
+    "nama": "al-fil",
+    "ayat": 5
+  },
+  {
+    "nama": "quraisy",
+    "ayat": 4
+  },
+  {
+    "nama": "al-maun",
+    "ayat": 7
+  },
+  {
+    "nama": "al-kausar",
+    "ayat": 3
+  },
+  {
+    "nama": "al-kafirun",
+    "ayat": 6
+  },
+  {
+    "nama": "an-nasr",
+    "ayat": 3
+  },
+  {
+    "nama": "al-lahab",
+    "ayat": 5
+  },
+  {
+    "nama": "al-ikhlas",
+    "ayat": 4
+  },
+  {
+    "nama": "al-falaq",
+    "ayat": 5
+  },
+  {
+    "nama": "an-nas",
+    "ayat": 6
+  }
+]
