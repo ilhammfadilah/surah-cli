@@ -32,8 +32,7 @@ export function command() {
         return;
       }
 
-      const result = boxen(`${chalk.green('surah ditemukan')}!\nnama surah: ${chalk.green.bold(surah.nama)}\njumlah ayat: ${chalk.green.bold(surah.ayat)}
-      `, {padding: 1});
+      const result = boxen(`${chalk.green('surah ditemukan')}!\nnama surah: ${chalk.green.bold(surah.nama)}\njumlah ayat: ${chalk.green.bold(surah.ayat)} `, {padding: 1});
       console.log(result);
     }
   )
