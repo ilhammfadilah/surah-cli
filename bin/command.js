@@ -2,8 +2,10 @@ import chalk from 'chalk';
 import boxen from 'boxen';
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
-import data from '../data.json' assert {type: "json"};
+// import data from '../data.json' assert {type: "json"};
 import fs from 'fs';
+
+const data = fs.readFileSync('./data.json');
 
 export function command() {
   yargs(hideBin(process.argv))
@@ -36,7 +38,7 @@ export function command() {
       console.log(result);
     }
   )
-  .command('cari <nomorsurah>  <ayat>',
+  .command('cari nomorsurah:ayat',
     'menampilkan terjemahan surah',
     (yargs) => yargs
       .positional('nomorsurah', {
@@ -48,11 +50,15 @@ export function command() {
           type: 'number'
       }),
     argv => {
-      const { nomorsurah, ayat } = argv;
-      const rawSurah = fs.readFileSync('./data/'+argv.nomorsurah+'.json');
+      const arg = argv['nomorsurah:ayat'];
+      const arrArg = arg.split(':', 2);
+      // console.log(arrArg);
+      // const { nomorsurah, ayat } = argv;
+      const rawSurah = fs.readFileSync('./data/'+arrArg[0]+'.json');
       const jsonSurah = JSON.parse(rawSurah)
-      const result = jsonSurah[argv.nomorsurah]["translations"]["id"]["text"][argv.ayat];
-      console.log(chalk.green(result));
+      console.log('Terjemah dari '+jsonSurah[arrArg[0]]["name_latin"]+' ayat ke '+arrArg[1]);
+      const result = jsonSurah[arrArg[0]]["translations"]["id"]["text"][arrArg[1]];
+      console.log(boxen(chalk.green(result), {padding: 1}));
     })
   // .usage('Usage: $0 -a <arg1> -b <arg2>')
   // .option('a', {
